@@ -2,6 +2,7 @@ package com.heechan.baseactivity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.heechan.baseactivity.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
